@@ -1,29 +1,10 @@
-## Welcome to Helen's Page!
+## Helen Phan
 
-You can use the [editor on GitHub](https://github.com/hphantom/helen/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome! My name is Helen Phan. I am conduct UX Researcher. In a past life, I managed products, assisted in research, serviced customers and made pizza. I **love** to walk and explore, listening to live jazz and attending improv shows. I'm always ready to discuss all things transit, favorite restaurants, and anything and everything in between. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can find me on
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[linkedin](https://linkedin.com/in/helenphan24) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
