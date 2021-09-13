@@ -8,7 +8,7 @@ I **love** to walk and explore, listen to live jazz and attend improv shows.
 
 I'm always ready to discuss all things transit, favorite restaurants, and anything and everything in between. 
 
-You can find me on [linkedin](https://linkedin.com/in/helenphan24) or tweeting about Product, Burnout & Transit on [twitter](https://twitter.com/helenphantom)
+You can find me creeping on [linkedin](https://linkedin.com/in/helenphan24) or tweeting about Product, Burnout & Transit on [twitter](https://twitter.com/helenphantom)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
