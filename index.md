@@ -1,6 +1,6 @@
-## Helen Phan
+## Hi! My name is Helen Phan
 
-Welcome! My name is Helen Phan. I conduct UX Research. 
+I conduct UX Research. 
 
 In a past life, I managed products, assisted in research, serviced bookstore customers and made hot n' ready pizzas. 
 
