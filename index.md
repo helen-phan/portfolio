@@ -4,7 +4,7 @@ I conduct UX Research.
 
 In a past life, I managed products, assisted in research, serviced bookstore customers and made hot n' ready pizzas. 
 
-I **love** to walk and explore, listen to live jazz and attend improv shows. 
+I **love** to walk, listen to live jazz and attend improv shows. 
 
 I'm always ready to discuss all things transit, food, and anything and everything in between. 
 
