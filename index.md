@@ -9,3 +9,5 @@ I **love** to walk and explore, listen to live jazz and attend improv shows.
 I'm always ready to discuss all things transit, food, and anything and everything in between. 
 
 You can find me creeping on [linkedin](https://linkedin.com/in/helenphan24) or tweeting about Product, Burnout & Transit on [twitter](https://twitter.com/helenphantom)
+
+[Check out my Portfolio here](https://github.com/helen-phan/portfolio/files/7256069/Your.title.here.pdf)
