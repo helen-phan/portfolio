@@ -8,4 +8,6 @@ Outside of work, I **love** to walk, listen to live jazz and attend improv shows
 
 You can find me on [linkedin](https://linkedin.com/in/helenphan24).
 
-[Check out my Portfolio here](https://github.com/helen-phan/portfolio/files/7256069/hphanportfolio.pdf)
+[Check out my Portfolio here](https://github.com/helen-phan/portfolio/blob/gh-pages/hphanportfolio.pdf)
+
+https://github.com/helen-phan/portfolio/files/7256069/hphanportfolio.pdf
