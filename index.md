@@ -8,6 +8,6 @@ Outside of work, I love to walk, attend improv shows, and figure out how to recr
 
 You can find me on [linkedin](https://linkedin.com/in/helenphan24).
 
-[Check out my Portfolio here](helen-phan.github.io/Phan_UXR.pdf)
+[Check out my Portfolio here](/Phan_UXR.pdf)
 
 [Check out my resume here](helen-phan.github.io/Helen_Phan_UXR_Portfolio.pdf)
